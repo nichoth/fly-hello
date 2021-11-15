@@ -1,7 +1,7 @@
 {
   "name": "hellonode",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.0",
+  "description": "## A Fly Example",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/fly-examples/hellonode.git"
   },
-  "author": "",
+  "author": "Nick Thomas <nichoth@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fly-examples/hellonode/issues"
